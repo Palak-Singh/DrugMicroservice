@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{9C03527E-B531-417C-A3A4-740919110C96}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DrugMicroservice/Properties/launchSettings.json">
+    <Files>
+      <File FileName="DrugMicroservice/Controllers/DrugsApiController.cs" Line="98" Column="14" />
+      <File FileName="DrugMicroservice/Models/Drug.cs" Line="10" Column="1" />
+      <File FileName="DrugMicroservice/Repository/DrugRepository.cs" Line="1" Column="1" />
+      <File FileName="DrugMicroservice/Repository/DrugHelper.cs" Line="24" Column="38" />
+      <File FileName="DrugMicroservice/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DrugMicroservice" expanded="True">
+            <Node name="DrugMicroservice" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+              <Node name="Repository" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DrugMicroservice PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

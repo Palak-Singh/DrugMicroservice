@@ -1,0 +1,34 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: drugmicroservice-deployment
+  labels:
+    app: OrderItem
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: DrugMicroservice  
+  template:
+    metadata:
+      labels:
+        app: DrugMicroservice
+    spec:
+      containers:
+      - name: drugmicroservice
+        image: myfirstazurecr.azurecr.io/myfirstazurereo:latest
+        ports:
+        - containerPort: 8181
+      imagePullSecrets:
+      - name: drugsvcsecret
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: drugmicroservicesvc
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 81
+  selector:
+    app: DrugMicroservice

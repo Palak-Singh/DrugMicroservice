@@ -1,0 +1,194 @@
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/DrugMicroservice.exe
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.csprojAssemblyReference.cache
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.AssemblyInfoInputs.cache
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.AssemblyInfo.cs
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.RazorTargetAssemblyInfo.cache
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/staticwebassets/DrugMicroservice.StaticWebAssets.Manifest.cache
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/staticwebassets/DrugMicroservice.StaticWebAssets.xml
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/log4net.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.csproj.CopyComplete
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/DrugMicroservice.deps.json
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/DrugMicroservice.runtimeconfig.json
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/DrugMicroservice.runtimeconfig.dev.json
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/DrugMicroservice.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/DrugMicroservice.pdb
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.pdb
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.genruntimeconfig.cache
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.csproj.CoreCompileInputs.cache
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/PALAK/source/repos/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/DrugMicroservice.exe
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/DrugMicroservice.deps.json
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/DrugMicroservice.runtimeconfig.json
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/DrugMicroservice.runtimeconfig.dev.json
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/DrugMicroservice.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/DrugMicroservice.pdb
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/log4net.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.AssemblyInfoInputs.cache
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.AssemblyInfo.cs
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.csproj.CoreCompileInputs.cache
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/staticwebassets/DrugMicroservice.StaticWebAssets.Manifest.cache
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/staticwebassets/DrugMicroservice.StaticWebAssets.xml
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/scopedcss/bundle/DrugMicroservice.styles.css
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.RazorTargetAssemblyInfo.cache
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.csproj.CopyComplete
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.dll
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.pdb
+C:/Users/877666/Downloads/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.genruntimeconfig.cache
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/DrugMicroservice.deps.json
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/DrugMicroservice.runtimeconfig.json
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/DrugMicroservice.runtimeconfig.dev.json
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/DrugMicroservice.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/DrugMicroservice.pdb
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/log4net.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.csprojAssemblyReference.cache
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.AssemblyInfoInputs.cache
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.AssemblyInfo.cs
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.csproj.CoreCompileInputs.cache
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.MvcApplicationPartsAssemblyInfo.cs
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.MvcApplicationPartsAssemblyInfo.cache
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/staticwebassets/DrugMicroservice.StaticWebAssets.Manifest.cache
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/staticwebassets/DrugMicroservice.StaticWebAssets.xml
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/scopedcss/bundle/DrugMicroservice.styles.css
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.RazorTargetAssemblyInfo.cache
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.csproj.CopyComplete
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.dll
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.pdb
+/Users/sreekarreddy/Downloads/DrugMicroservice (6)/DrugMicroservice/DrugMicroservice/DrugMicroservice/obj/Debug/netcoreapp3.1/DrugMicroservice.genruntimeconfig.cache
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\DrugMicroservice.exe
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\DrugMicroservice.deps.json
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\DrugMicroservice.runtimeconfig.json
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\DrugMicroservice.runtimeconfig.dev.json
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\DrugMicroservice.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\DrugMicroservice.pdb
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\obj\Debug\netcoreapp3.1\DrugMicroservice.csprojAssemblyReference.cache
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\obj\Debug\netcoreapp3.1\DrugMicroservice.AssemblyInfoInputs.cache
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\obj\Debug\netcoreapp3.1\DrugMicroservice.AssemblyInfo.cs
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\obj\Debug\netcoreapp3.1\DrugMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\obj\Debug\netcoreapp3.1\DrugMicroservice.csproj.CopyComplete
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DrugMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DrugMicroservice.StaticWebAssets.xml
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\obj\Debug\netcoreapp3.1\DrugMicroservice.dll
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\obj\Debug\netcoreapp3.1\DrugMicroservice.pdb
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\obj\Debug\netcoreapp3.1\DrugMicroservice.genruntimeconfig.cache
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\obj\Debug\netcoreapp3.1\DrugMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\obj\Debug\netcoreapp3.1\DrugMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PALAK\Downloads\DrugMicroservice (6)\DrugMicroservice\DrugMicroservice\DrugMicroservice\obj\Debug\netcoreapp3.1\DrugMicroservice.MvcApplicationPartsAssemblyInfo.cache
