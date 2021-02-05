@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IInUibw6dO7Pl/UuQmvdgTT7BkuL6FaDK12Wxznz0zCCUV+2Dwd4sx9D7jRgziN9R4tcPc897d5LPGV6or3Nog==",
+  "dgSpecHash": "wLAMXSYxsSJxv+H5HmyoyjGmD5nRId6dAtRK3HaDjMx1TJIyUWdJOj2NQZlIky6bsNUFK1TqHKaw0SqW8FimKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PALAK\\Downloads\\DrugMicroservice (6)\\DrugMicroservice\\DrugMicroservice\\DrugMicroservice\\DrugMicroservice.csproj",
+  "projectFilePath": "C:\\Users\\PALAK\\Desktop\\ProjectFinalFiles\\DrugMicroservice (6)\\DrugMicroservice\\DrugMicroservice\\DrugMicroservice\\DrugMicroservice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PALAK\\.nuget\\packages\\log4net\\2.0.8\\log4net.2.0.8.nupkg.sha512",
     "C:\\Users\\PALAK\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.11\\microsoft.aspnetcore.authentication.jwtbearer.3.1.11.nupkg.sha512",

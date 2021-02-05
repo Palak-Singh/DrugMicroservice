@@ -6689,11 +6689,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PALAK\\Downloads\\DrugMicroservice (6)\\DrugMicroservice\\DrugMicroservice\\DrugMicroservice\\DrugMicroservice.csproj",
+      "projectUniqueName": "C:\\Users\\PALAK\\Desktop\\ProjectFinalFiles\\DrugMicroservice (6)\\DrugMicroservice\\DrugMicroservice\\DrugMicroservice\\DrugMicroservice.csproj",
       "projectName": "DrugMicroservice",
-      "projectPath": "C:\\Users\\PALAK\\Downloads\\DrugMicroservice (6)\\DrugMicroservice\\DrugMicroservice\\DrugMicroservice\\DrugMicroservice.csproj",
+      "projectPath": "C:\\Users\\PALAK\\Desktop\\ProjectFinalFiles\\DrugMicroservice (6)\\DrugMicroservice\\DrugMicroservice\\DrugMicroservice\\DrugMicroservice.csproj",
       "packagesPath": "C:\\Users\\PALAK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PALAK\\Downloads\\DrugMicroservice (6)\\DrugMicroservice\\DrugMicroservice\\DrugMicroservice\\obj\\",
+      "outputPath": "C:\\Users\\PALAK\\Desktop\\ProjectFinalFiles\\DrugMicroservice (6)\\DrugMicroservice\\DrugMicroservice\\DrugMicroservice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PALAK\\AppData\\Roaming\\NuGet\\NuGet.Config",
