@@ -12,7 +12,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DrugMicroservice.Controllers
 {
-    //[Authorize]
+    [Authorize]
     [Route("api/[controller]/[action]")]
     [ApiController]
     public class DrugsApiController : ControllerBase

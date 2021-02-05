@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: drugmicroservice
-        image: myfirstazurecr.azurecr.io/myfirstazurereo:latest
+        image: mailorderpharmacyncr.azurecr.io/drugmicroserviceimage:latest
         ports:
         - containerPort: 8181
       imagePullSecrets:
