@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: drugmicroservice-deployment
   labels:
-    app: OrderItem
+    app: DrugMicroservice
 spec:
   replicas: 1
   selector:
